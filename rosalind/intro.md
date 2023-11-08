@@ -36,3 +36,4 @@ slice_2 = s[c:d+1]
 ```phyton
 print(slice_1 + " " + slice_2) 
 ```
+I got **Parabuthus turtor**!
