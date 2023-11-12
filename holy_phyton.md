@@ -278,6 +278,7 @@ print(ans_1)
 ```
 
 ## Exercise 9-k
+**Question: When running Python in JupyterLab, str.find("X") doesn't return the value -1, as it should apparently. Why?**
 ```phyton
 str = "The best revenge is massive success."
 ans_1 = str.find("X")
