@@ -365,6 +365,7 @@ print(lst)
 ```
 
 ## Exercise 12-b
+**Question: Why does lst.pop(a) work with round brackets? We're working with indexing here, shouldn't we use square brackets: lst.pop[a]?**
 ```phyton
 lst = ["milk", "banana", "eggs", "bread", "broccoli", "lemons"]
 item = lst.pop(lst.index("broccoli"))
