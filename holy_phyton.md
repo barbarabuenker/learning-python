@@ -270,6 +270,7 @@ print(ans_1)
 ```
 
 ## Exercise 9-j
+**Question: So there is really no difference between the .index() and .find() function?**
 ```phyton
 str="The best revenge is massive success."
 ans_1=str.find("m")
