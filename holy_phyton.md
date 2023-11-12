@@ -144,6 +144,7 @@ print(gift_list)
 ```
 
 ## Exercise 6-f
+**Question: Why 2? It says index 3 which should refer to the fourth element in the list, right?**
 ```phyton
 gift_list = ['socks', '4K drone', 'wine', 'jam']
 gift_list.insert(2, "slippers")
