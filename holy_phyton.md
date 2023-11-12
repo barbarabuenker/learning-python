@@ -394,7 +394,7 @@ print(ans_1)
 ```
 
 ## Exercise 17-d
-**Question/having trouble understanding this!**
+**Question/having trouble understanding this!**\
 **Update/Answer: [x:y:z] means "from x to y-1 in steps of z"** 
 ```phyton
 wrd = "Toscana"
@@ -403,7 +403,7 @@ print(ans_1)
 ```
 
 ## Exercise 17-e
-**Question/having trouble understanding this!**
+**Question/having trouble understanding this!**\
 **Update/Answer: See exercise 17-d**
 ```phyton
 wrd = "Toscana"
@@ -412,8 +412,8 @@ print(ans_1)
 ```
 
 ## Exercise 17-f
-**Question/having trouble understanding this!**
-**Update/Answer: See exercise 17-d**
+**Question/having trouble understanding this!**\
+**Update/Answer: See exercise 17-d**\
 **Note to self: This is actually not a good way to do it - it's not immediately clear what's happening here! What we should be doing: .reverse()! So for the future, resist the temptation and use the reverse-function so other people will understand as well!**
 ```phyton
 lst = [0,1,2,3,4]
@@ -422,7 +422,7 @@ print(ans_1)
 ```
 
 ## Exercise 17-g
-**Question/having trouble undertstanding this!**
+**Question/having trouble undertstanding this!**\
 **Update/Answer: See exercise 17-d"**
 ```phyton
 lst = [0,1,2,3,4]
