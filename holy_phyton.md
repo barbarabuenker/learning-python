@@ -48,6 +48,7 @@ print(global_mean_sea_level_2018)
 ```
 
 ## Exercise 3-d
+**Note to self: Find out more about Booleans!**
 ```phyton
 staying_alive = False
 print(staying_alive)
