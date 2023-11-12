@@ -320,6 +320,7 @@ print(lst)
 ```
 
 ## Exercise 11-b
+**Question: The solution says lst.sort(reverse = False) - but this is the default argument, so why write it down?**
 ```phyton
 lst = ["Ukraine", "Japan", "Canada", "Kazakhstan", "Taiwan", "India", "Belize"]
 lst.sort()
