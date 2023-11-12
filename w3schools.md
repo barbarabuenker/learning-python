@@ -1,4 +1,4 @@
-# W3Schools - Exercises (https://www.w3schools.com/python/exercise.asp?filename=exercise_strings1, https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1)
+# W3Schools - Exercises
 ## Python Strings - Exercise 1
 ```python
 x = "Hello World"
