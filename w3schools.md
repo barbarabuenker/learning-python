@@ -149,7 +149,11 @@ if 5 > 2:
 	print("Five is greater than two!")
 ```
 ## Python If...Else - Exercise 8
-```python if 5 > 2: print("Five is greater than two!") ```
+```python
+if 5 > 2: print("Five is greater than two!")
+```
 
 ## Python If...Else - Exercise 9
-```python print("Yes") if 5 > 2 else print("No") ```
+```python
+print("Yes") if 5 > 2 else print("No")
+```
