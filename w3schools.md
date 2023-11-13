@@ -143,11 +143,13 @@ if a == b and c == d:
 if a == b or c == d:
 	print("Hello")
 ```
+
 ## Python If...Else - Exercise 7
 ```python
 if 5 > 2:
 	print("Five is greater than two!")
 ```
+
 ## Python If...Else - Exercise 8
 ```python
 if 5 > 2: print("Five is greater than two!")
@@ -156,4 +158,35 @@ if 5 > 2: print("Five is greater than two!")
 ## Python If...Else - Exercise 9
 ```python
 print("Yes") if 5 > 2 else print("No")
+
+```
+## Python For Loops - Exercise 1
+```python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+	print(x)
+```
+## Python For Loops -  Exercise 2
+```python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+	if x == "banana":
+		continue
+
+	print(x)
+```
+
+## Python For Loops - Exercise 3
+```python
+for x in range(6):
+	print(x)
+```
+
+## Python For Loops - Exercise 4
+```python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+	if x == "banana":
+		break
+	print(x)
 ```
