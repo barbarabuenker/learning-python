@@ -1,48 +1,48 @@
-## Python Lists - Exercise 1
+## W3Schools exercises: Lists
+### Exercise 1
 ```python
 fruits = ["apple", "banana", "cherry"]
 print(fruits[1])
 ```
 
-## Python Lists - Exercise 2
+### Exercise 2
 ```python
 fruits = ["apple", "banana", "cherry"]
 fruits[0] = "kiwi"
 ```
 
-## Python Lists - Exercise 3
+### Exercise 3
 ```python
 fruits = ["apple", "banana", "cherry"]
 fruits.append("orange")
 ```
 
-## Python Lists - Exercise 4
+### Exercise 4
 ```python
 fruits = ["apple", "banana", "cherry"]
 fruits.insert(1, "lemon")
 ```
 
-## Python Lists - Exercise 5
+### Exercise 5
 ```python
 fruits = ["apple", "banana", "cherry"]
 fruits.remove("banana")
 ```
 
-## Python Lists - Exercise 6
+### Exercise 6
 ```python
 fruits = ["apple", "banana", "cherry"]
 print(fruits[-1])
 ```
 
-## Python Lists - Exercise 7
+### Exercise 7
 ```python
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(fruits[2:5])
 ```
 
-## Python Lists - Exercise 8
+### Exercise 8
 ```python
 fruits = ["apple", "banana", "cherry"]
 print(len(fruits))
 ```
-
