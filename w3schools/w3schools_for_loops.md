@@ -1,4 +1,5 @@
-[W3Schools exercises: For Loops](https://www.w3schools.com/python/python_for_loops.asp)
+## W3Schools exercises: For Loops
+([Link](https://www.w3schools.com/python/python_for_loops.asp))
 ### Exercise 1
 ```python
 fruits = ["apple", "banana", "cherry"]
