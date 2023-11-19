@@ -1,5 +1,5 @@
 ### learning-python
-A repository created for documenting my process of learning **Python** :smile: 
+A repository created for documenting my process of learning **Python** :snake: 
 
 Includes ...
 * **exercises** from [w3schools](https://www.w3schools.com/python/), [Holy Python](https://holypython.com), [Rosalind](https://rosalind.info/users/barbarabuenker/) as well as [PYnative](https://pynative.com) - partly with questions and notes inserted (files can be found in the respective folders),
