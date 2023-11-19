@@ -20,7 +20,7 @@ else:
     print("Good morning " + name)
 # Answer: if you construct your logical statement with name.lower() it will work either way!
 ```
-** Had trouble finding a solution by myself here. Couldn't come up with the .lower() part. Maybe revisit and try again later!**
+**Had trouble finding a solution by myself here. Couldn't come up with the .lower() part. Maybe revisit and try again later!**
 
 ### Exercise 7-c
 ```python
@@ -39,7 +39,7 @@ def thedecimal(i):
     else:
         return "INTEGER"
 ```
-** Had trouble finding a solution by myself here. Esp. coming up with the i-int(i) part. Maybe revisit and try again later!**
+**Had trouble finding a solution by myself here. Esp. coming up with the i-int(i) part. Maybe revisit and try again later!**
 
 ### Exercise 7-e
 ```python
@@ -54,7 +54,7 @@ def moretrees(dict):
     return greencountries
 print(moretrees(treepersqkm))
 ```
-** Had trouble finding a solutiuon by myself here. Maybe revist and try again later!**
+**Had trouble finding a solutiuon by myself here. Maybe revist and try again later!**
 
 ### Exercise 7-f
 ```python
@@ -69,7 +69,7 @@ def count_l(a):
     return c
 print(count_l(str))
 ```
-** Had trouble finding a solution by mself here. Esp. the part with _if "l" in i_. Maybe revist and try again later!**
+**Had trouble finding a solution by mself here. Esp. the part with _if "l" in i_. Maybe revist and try again later!**
 
 ### Exercise 7-g
 ```python
@@ -84,4 +84,3 @@ def count_l(a):
     return c
 print(count_l(str))
 ```
-
