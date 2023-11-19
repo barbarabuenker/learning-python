@@ -4,4 +4,4 @@
 - How can I solve the "LF will be replaced by CRLF the next time ..."-problem when running git add?
 - I don't get the chapter on [Customize Sort Function](https://www.w3schools.com/python/python_lists_sort.asp)
 - It is better to choose e. g. "items" in a for loop insteas of "i", right?
-
+- Use of bool()?
