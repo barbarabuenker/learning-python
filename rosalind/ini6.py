@@ -18,7 +18,8 @@ for key, value in number_of_each_word.items():
     print(key, value) 
 
 ## Result:
-"""When 1
+"""
+When 1
 I 2
 find 1
 myself 1
@@ -83,4 +84,5 @@ wake 1
 up 1
 sound 1
 music 1
-yeah 2"""
+yeah 2
+"""
