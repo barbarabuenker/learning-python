@@ -5,3 +5,4 @@
 - I don't get the chapter on [Customize Sort Function](https://www.w3schools.com/python/python_lists_sort.asp)
 - It is better to choose e. g. "items" in a for loop insteas of "i", right?
 - Use of bool()?
+- Generally, had trouble with the whole Holy Python If, Elif, Else Exercises chapter.
