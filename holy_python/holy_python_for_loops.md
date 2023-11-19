@@ -1,12 +1,12 @@
 ## Holy Python exercises: For Loops
-Exercise 8-a
+### Exercise 8-a
 ```python
 lst=["koala", "cat", "fox", "panda", "chipmunk", "sloth", "penguin", "dolphin"]
 for item in lst:
     print(item)
 ```
 
-Exercise 8-b
+### Exercise 8-b
 ```python
 lst=["Sam", "Lisa", "Micha", "Dave", "Wyatt", "Emma", "Sage"]
 for name in lst:
@@ -19,14 +19,14 @@ for name in lst:
     print("Hello!,", name)
 ```
 
-Exercise 8-c
+### Exercise 8-c
 ```python
 str="Antarctica"
 for letter in str:
     print(letter)
 ```
 
-Exercise 8-d
+### Exercise 8-d
 ```python
 str="Civilization"
 c=0
@@ -35,7 +35,7 @@ for i in str:
     print(c)
 ```
 
-Exercise 8-e
+### Exercise 8-e
 ```python
 lst1=["Phil", "Oz", "Seuss", "Dre"]
 lst2=[]
@@ -45,7 +45,7 @@ print(lst2)
 ```
 **Had trouble finding the solution here. Mabye try it again later!**
 
-Exercise 8-f
+### Exercise 8-f
 ```python
 lst1=[3, 7, 6, 8, 9, 11, 15, 25]
 lst2=[]
@@ -54,7 +54,7 @@ for number in lst1:
 print(lst2)
 ```
 
-Exercise 8-g
+### Exercise 8-g
 ```python
 lst1=[111, 32, -9, -45, -17, 9, 85, -10]
 lst2=[]
@@ -64,7 +64,7 @@ for number in lst1:
 print(lst2)
 ```
 
-Exercise 8-h
+### Exercise 8-h
 ```python
 dict={"z1":900, "t1": 1100, "p1": 2300, "r1": 1050, "k1": 3200, "g1": 400}
 lst=[]
@@ -83,7 +83,7 @@ for value in dict[key]:
 print(lst)
 ```
 
-Exercise 8-i
+### Exercise 8-i
 ```python
 lst1=[3.14, 66, "Teddy Bear", True, [], {}]
 lst2=[]
