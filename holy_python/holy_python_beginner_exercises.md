@@ -1,5 +1,4 @@
-# Beginner Python Exercises (https://holypython.com/beginner-python-exercises/)
-
+## Holy Python: Beginner exercises
 ## Exercise 1-a
 ```phyton
 print ("Hello World!")
