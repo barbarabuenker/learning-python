@@ -1,4 +1,4 @@
-### General questions:
+### General questions (try to look it up or ask about it in class!)
 
 - I don't get the use of while loops.
 - How can I solve the "LF will be replaced by CRLF the next time ..."-problem when running git add?
@@ -6,3 +6,5 @@
 - It is better to choose e. g. "items" in a for loop insteas of "i", right?
 - Use of bool()?
 - Generally, had trouble with the whole Holy Python If, Elif, Else Exercises chapter.
+- Functions: I don't get the difference between **args and **kwargs
+
