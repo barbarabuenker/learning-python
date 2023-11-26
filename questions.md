@@ -8,3 +8,4 @@
 - Generally, had trouble with the whole Holy Python If, Elif, Else Exercises chapter.
 - Functions: I don't get the difference between **args and **kwargs.
 - Functions: Don't get the chapter on recursion.
+- Having a bit of trouble understanding some examples in the Pynative Print Pattern lesson.
