@@ -9,3 +9,7 @@
 - Functions: I don't get the difference between **args and **kwargs.
 - Functions: Don't get the chapter on recursion.
 - Having a bit of trouble understanding some examples in the Pynative Print Pattern lesson.
+- Good thing to use different "levels" of # when writing a comment in a script? e. g. 
+	# test1
+	## test1_test2
+	### test1_test2_test3 
