@@ -1,4 +1,4 @@
-# Rosalind: GRPH
+# Rosalind GRPH: Overlap Graphs
 
 # Given: A collection of DNA strings in FASTA format having total length at most 10 kbp.
 # Return:
